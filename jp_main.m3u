@@ -1,8 +1,33 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-shift=0 m3uautoload=1
 
+#MAIN 関西
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK総合1･大阪
+https://cdnv148.cloudrsst.com/jptv/kansi_nhk_g_720/chunklist.m3u8
 
-#MAIN 関東
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK Eテレ1
+https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="関西",サンテレビ
+https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="関西",MBS毎日放送
+https://cdnv148.cloudrsst.com/jptv/kansi_mbs_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="関西",ABCテレビ
+https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="関西",テレビ大阪
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_osaka_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="関西",関西テレビ
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="関西",読売テレビ
+https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_720/chunklist.m3u8
+
+
+#関東
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="関東",NHK総合
 https://cdnv148.cloudrsst.com/jptv/kanto_nhk_g_720/chunklist.m3u8
 
@@ -35,32 +60,6 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 
 #EXTINF:-1 group-title="関東" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-
-
-#関西
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK総合1･大阪
-https://cdnv148.cloudrsst.com/jptv/kansi_nhk_g_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK Eテレ1
-https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="関西",サンテレビ
-https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="関西",MBS毎日放送
-https://cdnv148.cloudrsst.com/jptv/kansi_mbs_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="関西",ABCテレビ
-https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png" group-title="関西",テレビ大阪
-https://cdnv148.cloudrsst.com/jptv/kansi_tv_osaka_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Kantele_logo_2015.png" group-title="関西",関西テレビ
-https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="関西",読売テレビ
-https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_720/chunklist.m3u8
 
 
 #BS
