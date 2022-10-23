@@ -95,3 +95,19 @@ https://cdnv148.cloudrsst.com/jptv/wowcinema_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOWプラス
 https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
+
+#TVerリアルタイム配信
+#EXTINF:-1 tvg-id="idk" tvg-logo="https://statics.tver.jp/images/icon/tx.jpg?v=1" group-title="TVerリアルタイム配信",テレ東系
+https://ssai-variants.streaks.jp/v2/tver-simul-tx/537e0f8f6e8f4fe7aaec4e6d5d6ea888/c1b3b57beb314cd3acbbcfcd67d0f110/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-1774/589b11ac-916c-4c4d-aa0c-f9033f55ee5a/0.m3u8?pdt=-10285&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTEwMjg1In0.RoGQll3gRtK0cFQBC5Hl_MLy8RBkZZDZSgWUZvqRH-c&session=589b11ac-916c-4c4d-aa0c-f9033f55ee5a
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/ex.jpg?v=1" group-title="TVerリアルタイム配信",テレ朝系
+https://ssai-variants.streaks.jp/v2/tver-simul-ex/6ad5f1ca56944851bc86223e955e0340/eb72b1c631c14fd3a2a519d4fe7e9367/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-1773/495451d4-7b3a-48df-99b5-d7fcafee64a8/0.m3u8?pdt=-16208&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2MjA4In0.nDIlzabvo8C5ze9Ul5aDtqKzjCeusoHDxE8bAKuljRA&session=495451d4-7b3a-48df-99b5-d7fcafee64a8
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg?v=1" group-title="TVerリアルタイム配信",日テレ系
+https://ssai-variants.streaks.jp/v2/tver-simul-ntv/1727021d5a00477e9450e8170653f3c6/7dad4248181341798caaf0eb99e47ea1/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-1772/011f842e-8a48-4740-ae92-53ba9f18c026/0.m3u8?pdt=-8366&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04MzY2In0.7PBvC51MHP2PoH1Dz_lmJl-cZoifep517sLilNLpDhU&session=011f842e-8a48-4740-ae92-53ba9f18c026
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg?v=1" group-title="TVerリアルタイム配信",TBS系
+https://ssai-variants.streaks.jp/v2/tver-simul-tbs/ddfe4d2464ab4aefbb368c7a348f8c1a/d080e3c675bd436884bcc2df49d0896e/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-1775/843d4b8f-ad7b-4a9e-8e52-a8a253eebbc9/0.m3u8?pdt=-8084&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04MDg0In0.xfWmdsfnF73rQt0BFkC0WpAyL1Ejd0NsZjPBtccTR5Y&session=843d4b8f-ad7b-4a9e-8e52-a8a253eebbc9
+
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/cx.jpg?v=1" group-title="TVerリアルタイム配信",フジ系
+https://ssai-variants.streaks.jp/v2/tver-simul-cx/4ed0b96148a54c5795256dd001ab1b5f/edd10b15e5ce4fc299beea923375e9a6/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-1771/78546762-cc0b-4a44-847e-444018bfa3cb/0.m3u8?pdt=-3960&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTM5NjAifQ.MpA4oEYeOFVU5KJaRY7E3gUmRy6L_1Lo08JrYZHjfIc&session=78546762-cc0b-4a44-847e-444018bfa3cb
