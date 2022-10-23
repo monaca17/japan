@@ -84,6 +84,9 @@ https://cdnv148.cloudrsst.com/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="BS",BSフジ･181
 https://cdnv148.cloudrsst.com/jptv/bsfuji_720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BS_12.png" group-title="BS",BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+
 #EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="BS",WOWOWプライム
 https://cdnv148.cloudrsst.com/jptv/wowprime_720/playlist.m3u8
 
