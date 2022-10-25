@@ -15,20 +15,20 @@ https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/chunklist.m3u8
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",041 - ＭＢＳ毎日放送
 https://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
 
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png",051 - ＫＢＳ京都
+https://code.television4you.xyz/getlink/yoitv?id=hFzosjtNqYtZGMMnkL0T7w==
+
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",061 - ＡＢＣテレビ１
 https://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="TVOsaka.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png",071 - テレビ大阪１
+https://code.television4you.xyz/getlink/yoitv?id=czZDtneIVvfAZn-728ylZw==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",081 - 関西テレビ１
 https://code.television4you.xyz/getlink/yoitv?id=jXAkGPMC5sVcMvQ09HoU4g==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png",101 - 読売テレビ１
 https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
-
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="TVOsaka.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png",071 - テレビ大阪１
-https://code.television4you.xyz/getlink/yoitv?id=czZDtneIVvfAZn-728ylZw==
-
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOBRDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png",051 - ＫＢＳ京都
-https://code.television4you.xyz/getlink/yoitv?id=hFzosjtNqYtZGMMnkL0T7w==
 
 
 #２. 地上波 関東
@@ -145,7 +145,7 @@ https://code.television4you.xyz/getlink/yoitv?id=TfcJ9kWH1CIOv9xAI6BrBA==
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png",255 - 日本映画専門ch  
 https://code.television4you.xyz/getlink/yoitv?id=EZ01kN4IL0TFHR5h9Jq9BA==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg",256 - ディズニー･チャンネル
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",256 - ディズニー･チャンネル
 https://code.television4you.xyz/getlink/yoitv?id=iEpvKTL_zcrh2cTR1D8EUA==
 
 
@@ -226,7 +226,7 @@ https://code.television4you.xyz/getlink/yoitv?id=rhKOiZXma2k2EoIaL9RCmg==
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="SuperDramaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png",310 - スーパー！ドラマＴＶ ＃海外ドラマ☆エンタメ
 https://code.television4you.xyz/getlink/yoitv?id=Dx-fj30YfMqlPP9MVx7qvQ==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="FoxJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg",312 - ＦＯＸ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="FoxJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",312 - ＦＯＸ 
 https://code.television4you.xyz/getlink/yoitv?id=3d_lKfbxi344MiAxcjIypQ==
 
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png",314 - 女性チャンネル♪LaLa TV
@@ -238,7 +238,7 @@ https://code.television4you.xyz/getlink/yoitv?id=e0RBTvrOfe06oOkn-UXX5w==
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="SpaceShowerTV.j" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",322 - 音楽･ライブ！ スペースシャワーＴＶ 
 https://code.television4you.xyz/getlink/yoitv?id=lM09rEVGeA61wjdQwZTdzg==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="MTVJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg",323 - ＭＴＶ ＨＤ  
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="MTVJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg",323 - ＭＴＶ
 https://code.television4you.xyz/getlink/yoitv?id=r92x5aJGtFjpXj4FtPuvAw==
 
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="MusicAir.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_air_networks.png",324 - ミュージック･エア 
@@ -259,13 +259,13 @@ https://code.television4you.xyz/getlink/yoitv?id=xPz9TWJwU7yL_fToz1k9sg==
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="TheHistoryChannelJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",342 - ヒストリーチャンネル 日本･世界の歴史＆エンタメ 
 https://code.television4you.xyz/getlink/yoitv?id=I9B-HWhc2NgCmw6X9ahDMg==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="NationalGeographicJapan.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.svg",343 - ナショナル ジオグラフィック
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="NationalGeographicJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg",343 - ナショナル ジオグラフィック
 https://code.television4you.xyz/getlink/yoitv?id=OZooDkZinq-FLyeL7jtOHw==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="NTVNews24.jp" tvg-logo="https://news.ntv.co.jp/images/logo.svg",349 - 日テレＮＥＷＳ24ＨＤ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="NTVNews24.jp" tvg-logo="https://www.udkya.com/wordpress/wp-content/uploads/2020/05/tv38.jpg",349 - 日テレＮＥＷＳ２４
 https://code.television4you.xyz/getlink/yoitv?id=TUUoaNpgwX_Bs7GXhkkw_g==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="TBSNews.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png",351 - ＴＢＳ ＮＥＷＳ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="TBSNews.jp" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yVeSz7yY38m7nD_gdjXf1zxRpXI8zagw7M7s6pqkyURoPOC4kQq-0JyAtosgEDtgPIw1_44KeBU13tP0nrCZimBQaiYEHk1DzXdYiEl3OkjxqKPNwIfuV9787Cqpf6Q8M7aIH7URY2zAw1Hp7eLULJK/logo-65406-152-400x400.png",351 - ＴＢＳ ＮＥＷＳ
 https://code.television4you.xyz/getlink/yoitv?id=D6eJg7aQZE3DKVZWNTTnYw==
 
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png",544 - 旅チャンネル
