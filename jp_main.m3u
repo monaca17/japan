@@ -91,37 +91,37 @@ https://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 
 #４. ＢＳ 191～256ch
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8",191 - ＷＯＷＯＷプライム 
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWPrime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8",191 - ＷＯＷＯＷプライム 
 https://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8",192 - ＷＯＷＯＷライブ
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWLive.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8",192 - ＷＯＷＯＷライブ
 https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8",193 - ＷＯＷＯＷシネマ  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWCinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8",193 - ＷＯＷＯＷシネマ  
 https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star1.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8",200 - スターチャンネル1  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8",200 - スターチャンネル1  
 https://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star2.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8",201 - スターチャンネル2  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8",201 - スターチャンネル2  
 https://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star3.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8",202 - スターチャンネル3  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8",202 - スターチャンネル3  
 https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS11.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png",211 - ＢＳ１１イレブン 
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
 https://code.television4you.xyz/getlink/yoitv?id=tEg54Q7WKFA66LWT0fB0gw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png",222 - ＢＳ１２トゥエルビ
 https://code.television4you.xyz/getlink/yoitv?id=WEtgDOVPkrw08bZvlQM6fA==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",234 - グリーンチャンネル 
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="GreenChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
 https://code.television4you.xyz/getlink/yoitv?id=VJxE-FBlx64-LontMCBEVw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Animax.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png",236 - ＢＳアニマックス  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Animax.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png",236 - ＢＳアニマックス  
 https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="im_using_jcom_epg_lol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png",241 - ＢＳスカパー
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="im_using_jcom_epg_lol" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs241.gif",241 - ＢＳスカパー
 https://code.television4you.xyz/getlink/yoitv?id=afavNfE5CyADY6llwTTbHQ==
 
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="JSports1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
@@ -136,10 +136,10 @@ https://code.television4you.xyz/getlink/yoitv?id=uwliL6IX2s7jD1yJwLogYA==
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="JSports4.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",245 - J SPORTS 4  
 https://code.television4you.xyz/getlink/yoitv?id=iTJCVvFevlmYFWr2kDu6tg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="FishingVision.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png",251 - 釣りビジョン  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="FishingVision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
 https://code.television4you.xyz/getlink/yoitv?id=chSauCF_-xtI2nAKn1HIVw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png",252 - ＷＯＷＯＷプラス  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png",252 - ＷＯＷＯＷプラス  
 https://code.television4you.xyz/getlink/yoitv?id=TfcJ9kWH1CIOv9xAI6BrBA==
 
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png",255 - 日本映画専門ch  
@@ -378,19 +378,19 @@ https://cdnv148.cloudrsst.com/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",181 - ＢＳフジ･181
 https://cdnv148.cloudrsst.com/jptv/bsfuji_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="８. ＢＳ 101～252ch (720p)",191 - ＷＯＷＯＷプライム
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",191 - ＷＯＷＯＷプライム
 https://cdnv148.cloudrsst.com/jptv/wowprime_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="８. ＢＳ 101～252ch (720p)",192 - ＷＯＷＯＷライブ
+#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",192 - ＷＯＷＯＷライブ
 https://cdnv148.cloudrsst.com/jptv/wowlive_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="８. ＢＳ 101～252ch (720p)",193 - ＷＯＷＯＷシネマ
+#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",193 - ＷＯＷＯＷシネマ
 https://cdnv148.cloudrsst.com/jptv/wowcinema_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BS_12.png" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス
 https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
 
 
