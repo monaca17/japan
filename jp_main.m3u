@@ -60,7 +60,7 @@ https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
 
 #３. ＢＳ 101～181ch
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS4K.jp" tvg-logo="tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS4K.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
 https://code.television4you.xyz/getlink/yoitv?id=thRBrsQy5LgM0YhR7EJudg==
 
 #EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8",101 - ＮＨＫＢＳ１  
