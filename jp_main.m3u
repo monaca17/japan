@@ -60,16 +60,16 @@ https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
 
 #３. ＢＳ 101～181ch
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS4K.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS4K.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/ch4K101.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
 https://code.television4you.xyz/getlink/yoitv?id=thRBrsQy5LgM0YhR7EJudg==
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8",101 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS1.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8",101 - ＮＨＫＢＳ１  
 https://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",102 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS1.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",102 - ＮＨＫＢＳ１  
 https://code.television4you.xyz/getlink/yoitv?id=KQxwxJVMr_ML8ZvsMsi8uQ==
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBSPremium.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-103-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8",103 - ＮＨＫＢＳプレミアム 
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBSPremium.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8",103 - ＮＨＫＢＳプレミアム 
 https://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
 
 #EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="BSNipponTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1311/video-${start}-${offset}.m3u8",141 - ＢＳ日テレ  
@@ -112,7 +112,7 @@ https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
 https://code.television4you.xyz/getlink/yoitv?id=tEg54Q7WKFA66LWT0fB0gw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS12.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif",222 - ＢＳ１２トゥエルビ
 https://code.television4you.xyz/getlink/yoitv?id=WEtgDOVPkrw08bZvlQM6fA==
 
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="GreenChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
@@ -139,7 +139,7 @@ https://code.television4you.xyz/getlink/yoitv?id=iTJCVvFevlmYFWr2kDu6tg==
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="FishingVision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
 https://code.television4you.xyz/getlink/yoitv?id=chSauCF_-xtI2nAKn1HIVw==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WowowPlus.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/251.png",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WowowPlus.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
 https://code.television4you.xyz/getlink/yoitv?id=TfcJ9kWH1CIOv9xAI6BrBA==
 
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs255.gif",255 - 日本映画専門ch  
@@ -357,10 +357,10 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 
 #８. ＢＳ 101～252ch (720p)
 
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",101 - ＮＨＫＢＳ１
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif" group-title="８. ＢＳ 101～252ch (720p)",101 - ＮＨＫＢＳ１
 https://cdnv148.cloudrsst.com/jptv/nhkbs1_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-103-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",103 - ＮＨＫＢＳプレミアム
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif" group-title="８. ＢＳ 101～252ch (720p)",103 - ＮＨＫＢＳプレミアム
 https://cdnv148.cloudrsst.com/jptv/bspremium_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",141 - ＢＳ日テレ
@@ -387,7 +387,7 @@ https://cdnv148.cloudrsst.com/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",193 - ＷＯＷＯＷシネマ
 https://cdnv148.cloudrsst.com/jptv/wowcinema_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
 #EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
