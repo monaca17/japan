@@ -45,7 +45,7 @@ https://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8",051 - テレビ朝日
 https://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",061 - ＴＢＳ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",061 - ＴＢＳ１
 https://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOTXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8",071 - テレビ東京１
@@ -333,7 +333,7 @@ https://cdnv148.cloudrsst.com/jptv/kanto_nippon_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="７. 地上波 関東 (720p)",051 - テレビ朝日
 https://cdnv148.cloudrsst.com/jptv/kanto_tv_asahi_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="７. 地上波 関東 (720p)",061 - ＴＢＳ１
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="７. 地上波 関東 (720p)",061 - ＴＢＳ１
 https://cdnv148.cloudrsst.com/jptv/kanto_tbs_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" group-title="７. 地上波 関東 (720p)",071 - テレビ東京１
@@ -351,7 +351,7 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="７. 地上波 関東 (720p)",031 - 群馬テレビ１
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 
-#EXTINF:-1 group-title="７. 地上波 関東 (720p)" tvg-id="NHKWorldJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png",NHK World Japan
+#EXTINF:-1 group-title="７. 地上波 関東 (720p)" tvg-id="NHKWorldJapan.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png",ＮＨＫワールド ＪＡＰＡＮ
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 
