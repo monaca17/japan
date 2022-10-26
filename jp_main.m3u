@@ -3,10 +3,10 @@
 
 #１. 地上波 関西
 
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D60-011-400x400.png" group-title="１. 地上波 関西",011 - ＮＨＫ総合１･京都
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png" group-title="１. 地上波 関西",011 - ＮＨＫ総合１･京都
 https://cdnv148.cloudrsst.com/jptv/kansi_nhk_g_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD1-021-400x400.png" group-title="１. 地上波 関西",021 - ＮＨＫＥテレ１･大阪
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1024px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png" group-title="１. 地上波 関西",021 - ＮＨＫＥテレ１･大阪
 https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="１. 地上波 関西",031 - サンテレビ
@@ -33,10 +33,10 @@ https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
 
 #２. 地上波 関東
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKGeneralTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D60-011-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8",011 - ＮＨＫ総合１･東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8",011 - ＮＨＫ総合１･東京
 https://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD1-021-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8",021 - ＮＨＫＥテレ１東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1024px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8",021 - ＮＨＫＥテレ１東京
 https://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8",041 - 日テレ１
@@ -292,10 +292,10 @@ https://code.television4you.xyz/getlink/yoitv?id=-uV8jOhgHBRuuEMBdU0Yig==
 
 #６. 地上波 関西 (720p)
 
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D60-011-400x400.png" group-title="６. 地上波 関西 (720p)",011 - ＮＨＫ総合１･京都
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png" group-title="６. 地上波 関西 (720p)",011 - ＮＨＫ総合１･京都
 https://cdnv148.cloudrsst.com/jptv/kansi_nhk_g_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD1-021-400x400.png" group-title="６. 地上波 関西 (720p)",021 - ＮＨＫＥテレ１･大阪
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1024px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png" group-title="６. 地上波 関西 (720p)",021 - ＮＨＫＥテレ１･大阪
 https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="６. 地上波 関西 (720p)",031 - サンテレビ
@@ -321,10 +321,10 @@ https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_720/chunklist.m3u8
 
 #７. 地上波 関東 (720p)
 
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D60-011-400x400.png" group-title="７. 地上波 関東 (720p)",011 - ＮＨＫ総合１･東京
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png" group-title="７. 地上波 関東 (720p)",011 - ＮＨＫ総合１･東京
 https://cdnv148.cloudrsst.com/jptv/kanto_nhk_g_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD1-021-400x400.png" group-title="７. 地上波 関東 (720p)",021 - ＮＨＫＥテレ１東京
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1024px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png" group-title="７. 地上波 関東 (720p)",021 - ＮＨＫＥテレ１東京
 https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="７. 地上波 関東 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",041 - 日テレ１
