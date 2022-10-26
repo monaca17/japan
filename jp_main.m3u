@@ -390,7 +390,7 @@ https://cdnv148.cloudrsst.com/jptv/wowcinema_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
 https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
 
 
