@@ -100,13 +100,13 @@ https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="WOWOWCinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8",193 - ＷＯＷＯＷシネマ  
 https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8",200 - スターチャンネル1  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8",200 - スターチャンネル１  
 https://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8",201 - スターチャンネル2  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8",201 - スターチャンネル２  
 https://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
 
-#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8",202 - スターチャンネル3  
+#EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8",202 - スターチャンネル３ 
 https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
 
 #EXTINF:-1 group-title="４. ＢＳ 191～256ch" tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
@@ -286,7 +286,7 @@ https://code.television4you.xyz/getlink/yoitv?id=epy3fdtnc1oI4z5JrjZzAQ==
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="DanceChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png",665 - ダンスチャンネル by エンタメ～テレ
 https://code.television4you.xyz/getlink/yoitv?id=kKx57kaG4Tz9tOTiLx8exA==
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="SportsLivePlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png",800 - スポーツライブ＋
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="SportsLivePlus.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/p800.gif",800 - スポーツライブ＋
 https://code.television4you.xyz/getlink/yoitv?id=-uV8jOhgHBRuuEMBdU0Yig==
 
 
@@ -342,10 +342,10 @@ https://cdnv148.cloudrsst.com/jptv/kanto_tv_tokyo_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png" group-title="７. 地上波 関東 (720p)",081 - フジテレビ
 https://cdnv148.cloudrsst.com/jptv/kanto_fuji_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png" group-title="７. 地上波 関東 (720p)",091 - Tokyo MX1
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png" group-title="７. 地上波 関東 (720p)",091 - TOKYO MX1
 https://cdnv148.cloudrsst.com/jptv/kanto_tokyo_mx1_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png" group-title="７. 地上波 関東 (720p)",092 - Tokyo MX2
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png" group-title="７. 地上波 関東 (720p)",092 - TOKYO MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/031.png" group-title="７. 地上波 関東 (720p)",031 - 群馬テレビ１
@@ -390,7 +390,7 @@ https://cdnv148.cloudrsst.com/jptv/wowcinema_720/playlist.m3u8
 #EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif" group-title="８. ＢＳ 101～252ch (720p)",222 - ＢＳ１２トゥエルビ
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif" group-title="８. ＢＳ 101～252ch (720p)",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
 https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
 
 
