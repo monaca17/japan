@@ -397,7 +397,6 @@ https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
 #９. TVerリアルタイム配信
 
 #EXTINF:-1 tvg-id="JOUHDTV.jp"  tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/4.png" group-title="９. TVerリアルタイム配信",TVer04 - 日テレ系
-	
 https://ssai-manifest.streaks.jp/v3/tver-simul-ntv/1727021d5a00477e9450e8170653f3c6/7dad4248181341798caaf0eb99e47ea1/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjU5ZTE4ZTUyZDhmODQ2MDhhYjgwNTY2YzdhN2Y5NWM5IiwiZWRnZSI6ImMwODk5MjQwZjljZTQ2ODg4ZDExZjAyZTY4MzcwOTBkIiwidXNlcl9pZCI6IjEiLCJjb2RlY3MiOiJhdXRvIiwiZXhwIjoxNjcyNTAyNDAwLCJ2cDkiOjF9.3_91mlpmcwerBI7rH6yMGzQJSNtQ0RELfhE4c2TH3eI&pdt=-8201&session=d08f4a42-4b16-4304-8c6a-1b078ae2dfdb
 
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/5.png" group-title="９. TVerリアルタイム配信",TVer05 - テレ朝系
