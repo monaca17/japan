@@ -397,7 +397,8 @@ https://cdnv148.cloudrsst.com/jptv/cinefil_wowow_720/playlist.m3u8
 #９. TVerリアルタイム配信
 
 #EXTINF:-1 tvg-id="JOUHDTV.jp"  tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/4.png" group-title="９. TVerリアルタイム配信",TVer04 - 日テレ系
-https://ssai-variants.streaks.jp/v2/tver-simul-ntv/1727021d5a00477e9450e8170653f3c6/7dad4248181341798caaf0eb99e47ea1/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-1772/011f842e-8a48-4740-ae92-53ba9f18c026/0.m3u8?pdt=-8366&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04MzY2In0.7PBvC51MHP2PoH1Dz_lmJl-cZoifep517sLilNLpDhU&session=011f842e-8a48-4740-ae92-53ba9f18c026
+	
+https://ssai-manifest.streaks.jp/v3/tver-simul-ntv/1727021d5a00477e9450e8170653f3c6/7dad4248181341798caaf0eb99e47ea1/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjU5ZTE4ZTUyZDhmODQ2MDhhYjgwNTY2YzdhN2Y5NWM5IiwiZWRnZSI6ImMwODk5MjQwZjljZTQ2ODg4ZDExZjAyZTY4MzcwOTBkIiwidXNlcl9pZCI6IjEiLCJjb2RlY3MiOiJhdXRvIiwiZXhwIjoxNjcyNTAyNDAwLCJ2cDkiOjF9.3_91mlpmcwerBI7rH6yMGzQJSNtQ0RELfhE4c2TH3eI&pdt=-8201&session=d08f4a42-4b16-4304-8c6a-1b078ae2dfdb
 
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/5.png" group-title="９. TVerリアルタイム配信",TVer05 - テレ朝系
 https://ssai-variants.streaks.jp/v2/tver-simul-ex/6ad5f1ca56944851bc86223e955e0340/eb72b1c631c14fd3a2a519d4fe7e9367/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-1773/495451d4-7b3a-48df-99b5-d7fcafee64a8/0.m3u8?pdt=-16208&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2MjA4In0.nDIlzabvo8C5ze9Ul5aDtqKzjCeusoHDxE8bAKuljRA&session=495451d4-7b3a-48df-99b5-d7fcafee64a8
