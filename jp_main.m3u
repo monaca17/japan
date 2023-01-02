@@ -13,49 +13,49 @@ https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
 https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/chunklist.m3u8
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOOYDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/041.png",041 - ＭＢＳ毎日放送
-https://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=R3W0ABMki1QGwd3TxPxjhA==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOBRDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/051.png",051 - ＫＢＳ京都
-https://code.television4you.xyz/getlink/yoitv?id=hFzosjtNqYtZGMMnkL0T7w==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOAYDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/061.png",061 - ＡＢＣテレビ１
-https://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=oI8q04LSmuVJ76lxll2FWg==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="TVOsaka.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/071.png",071 - テレビ大阪１
-https://code.television4you.xyz/getlink/yoitv?id=czZDtneIVvfAZn-728ylZw==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=czZDtneIVvfAZn-728ylZw==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JODXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/081.png",081 - 関西テレビ１
-https://code.television4you.xyz/getlink/yoitv?id=jXAkGPMC5sVcMvQ09HoU4g==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOIXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/101.png",101 - 読売テレビ１
-https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
 
 
 #２. 地上波 関東
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKGeneralTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8",011 - ＮＨＫ総合１･東京
-https://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKEducationalTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8",021 - ＮＨＫＥテレ１東京
-https://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NipponTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8",041 - 日テレ１
-https://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="TVAsahi.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8",051 - テレビ朝日
-https://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JORXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
-https://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOTXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8",071 - テレビ東京１
-https://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOCXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
-https://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOMXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
-https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
+http://playlist.vthanhtivi.pw/yoitv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 
 
 #３. ＢＳ 101～181ch
