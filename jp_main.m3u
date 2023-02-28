@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml" tvg-shift=0 m3uautoload=1
 
 #１. 地上波 関西
@@ -32,28 +30,28 @@ https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
 
 #２. 地上波 関東
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKGeneralTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63330" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
 https://api.vthanhtivi.pw/test/jp.php?id=14
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NHKEducationalTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63388" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１東京
 https://api.vthanhtivi.pw/test/jp.php?id=3
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="NipponTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png",041 - 日テレ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63324" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png",041 - 日テレ１
 https://api.vthanhtivi.pw/test/jp.php?id=4
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="TVAsahi.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63382" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
 https://api.vthanhtivi.pw/test/jp.php?id=7
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JORXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63261" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
 https://api.vthanhtivi.pw/test/jp.php?id=5
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOTXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63309" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
 https://api.vthanhtivi.pw/test/jp.php?id=8
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOCXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63394" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
 https://api.vthanhtivi.pw/test/jp.php?id=12
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="JOMXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="63343" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
 https://api.vthanhtivi.pw/test/jp.php?id=17
 
 
