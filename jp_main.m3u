@@ -142,10 +142,10 @@ https://api.vthanhtivi.pw/test/jp.php?id=57
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="DisneyChannelJapan.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs256.gif",256 - ディズニー･チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=58
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63329" tvg-logo="www.eiseihoso.org/images/channellogo/bs260.png",260 - ＢＳ松竹東急
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63329" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs260.png",260 - ＢＳ松竹東急
 https://api.vthanhtivi.pw/test/jp.php?id=125
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63008" tvg-logo="www.eiseihoso.org/images/channellogo/bs263.png",263 - BSJapanext 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63008" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs263.png",263 - BSJapanext 
 https://api.vthanhtivi.pw/test/jp.php?id=117
 
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63009" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs265.png",265 - ＢＳよしもと  
