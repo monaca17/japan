@@ -3,12 +3,6 @@
 
 #１. 地上波 関西
 
-#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/011.png" group-title="１. 地上波 関西",011 - ＮＨＫ総合１･京都
-https://cdnv148.cloudrsst.com/jptv/kansi_nhk_g_720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/021.png" group-title="１. 地上波 関西",021 - ＮＨＫＥテレ１･大阪
-https://cdnv148.cloudrsst.com/jptv/kanto_nhk_edu_720/chunklist.m3u8
-
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOOYDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/041.png",041 - ＭＢＳ毎日放送
 https://api.vthanhtivi.pw/test/jp.php?id=18
 
