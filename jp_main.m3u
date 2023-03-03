@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=33 m3uautoload=1
+#EXTINF:-1 url-tvg="https://epg.pw/xmltv/epg_JP.xml" tvg-shift=0 m3uautoload=1
 
 #１. 地上波 関西
 
@@ -127,13 +128,13 @@ https://api.vthanhtivi.pw/test/jp.php?id=71
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="釣りビジョンHD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
 https://api.vthanhtivi.pw/test/jp.php?id=98
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="WowowPlus.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
 https://api.vthanhtivi.pw/test/jp.php?id=55
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs255.gif",255 - 日本映画専門ch  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="日本映画 チャンネル 専門 HD.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs255.gif",255 - 日本映画専門ch  
 https://api.vthanhtivi.pw/test/jp.php?id=57
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ディズニー・チャンネル" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs256.gif",256 - ディズニー･チャンネル
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ディズニー・チャンネル HD.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs256.gif",256 - ディズニー･チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=58
 
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63329" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs260.png",260 - ＢＳ松竹東急
