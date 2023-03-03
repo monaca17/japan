@@ -112,19 +112,19 @@ https://api.vthanhtivi.pw/test/jp.php?id=60
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="アニマックスＨＤ.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs236.gif",236 - ＢＳアニマックス  
 https://api.vthanhtivi.pw/test/jp.php?id=56
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="JSports1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="J.SPORTS.1.HD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
 https://api.vthanhtivi.pw/test/jp.php?id=68
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="JSports2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",243 - J SPORTS 2  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="J.SPORTS.2.HD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",243 - J SPORTS 2  
 https://api.vthanhtivi.pw/test/jp.php?id=69
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="JSports3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",244 - J SPORTS 3  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="J.SPORTS.3.HD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",244 - J SPORTS 3  
 https://api.vthanhtivi.pw/test/jp.php?id=70
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="JSports4.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",245 - J SPORTS 4  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="J.SPORTS.4.HD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",245 - J SPORTS 4  
 https://api.vthanhtivi.pw/test/jp.php?id=71
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="FishingVision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="釣りビジョンHD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
 https://api.vthanhtivi.pw/test/jp.php?id=98
 
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="WowowPlus.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
