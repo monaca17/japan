@@ -51,31 +51,31 @@ https://api.vthanhtivi.pw/test/jp.php?id=17
 
 #３. ＢＳ 101～181ch
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHKBS4K.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/ch4K101.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="NHK.BS4K.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/ch4K101.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
 https://api.vthanhtivi.pw/test/jp.php?id=163
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫ ＢＳ１" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",101 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫＢＳ１.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",101 - ＮＨＫＢＳ１  
 https://api.vthanhtivi.pw/test/jp.php?id=32
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫ ＢＳ１" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",102 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫＢＳ１.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",102 - ＮＨＫＢＳ１  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫ ＢＳプレミアム" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif",103 - ＮＨＫＢＳプレミアム 
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＮＨＫＢＳプレミアム.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif",103 - ＮＨＫＢＳプレミアム 
 https://api.vthanhtivi.pw/test/jp.php?id=33
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ日テレ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",141 - ＢＳ日テレ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",141 - ＢＳ日テレ  
 https://api.vthanhtivi.pw/test/jp.php?id=44
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ朝日" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",151 - ＢＳ朝日１ 
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ朝日１.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",151 - ＢＳ朝日１ 
 https://api.vthanhtivi.pw/test/jp.php?id=35
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ-ＴＢＳ" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg",161 - ＢＳ-ＴＢＳ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳ－ＴＢＳ.jp" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg",161 - ＢＳ-ＴＢＳ  
 https://api.vthanhtivi.pw/test/jp.php?id=36
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳテレ東" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",171 - ＢＳテレ東
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="BS テレ東.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",171 - ＢＳテレ東
 https://api.vthanhtivi.pw/test/jp.php?id=37
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳフジ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",181 - ＢＳフジ･181
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="ＢＳフジ・181.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",181 - ＢＳフジ･181
 https://api.vthanhtivi.pw/test/jp.php?id=38
 
 
