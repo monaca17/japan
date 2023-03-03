@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml.gz" tvg-shift="+10" m3uautoload=1
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml.gz" tvg-shift=+10 m3uautoload=1
 
 #１. 地上波 関西
 
