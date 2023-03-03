@@ -36,7 +36,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=4
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="テレビ朝日.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
 https://api.vthanhtivi.pw/test/jp.php?id=7
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="ＴＢＳ" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="TBS.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
 https://api.vthanhtivi.pw/test/jp.php?id=5
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="テレビ東京.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
