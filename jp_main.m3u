@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift="1" m3uautoload="1"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift="+33" m3uautoload="1"
 
 #１. 地上波 関西
 
@@ -82,34 +82,34 @@ https://api.vthanhtivi.pw/test/jp.php?id=38
 
 #４. ＢＳ 191～265ch
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="WOWOWPrime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",191 - ＷＯＷＯＷプライム 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",191 - ＷＯＷＯＷプライム 
 https://api.vthanhtivi.pw/test/jp.php?id=39
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="WOWOWLive.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",192 - ＷＯＷＯＷライブ
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",192 - ＷＯＷＯＷライブ
 https://api.vthanhtivi.pw/test/jp.php?id=40
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ＷＯＷＯＷシネマ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",193 - ＷＯＷＯＷシネマ  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",193 - ＷＯＷＯＷシネマ  
 https://api.vthanhtivi.pw/test/jp.php?id=41
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",200 - スターチャンネル１  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="スターチャンネル 1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",200 - スターチャンネル１  
 https://api.vthanhtivi.pw/test/jp.php?id=52
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="Star2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",201 - スターチャンネル２  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="スターチャンネル 2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",201 - スターチャンネル２  
 https://api.vthanhtivi.pw/test/jp.php?id=53
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png",202 - スターチャンネル３ 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="スターチャンネル 3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png",202 - スターチャンネル３ 
 https://api.vthanhtivi.pw/test/jp.php?id=54
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="BS11.イレブン.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
 https://api.vthanhtivi.pw/test/jp.php?id=157
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="BS12 トゥエルビ" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="BS12 トゥエルビ.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif",222 - ＢＳ１２トゥエルビ
 https://api.vthanhtivi.pw/test/jp.php?id=114
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="GreenChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="グリーンチャンネル HD.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
 https://api.vthanhtivi.pw/test/jp.php?id=60
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="BSアニマックス" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs236.gif",236 - ＢＳアニマックス  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="アニマックスＨＤ.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs236.gif",236 - ＢＳアニマックス  
 https://api.vthanhtivi.pw/test/jp.php?id=56
 
 #EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="JSports1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
