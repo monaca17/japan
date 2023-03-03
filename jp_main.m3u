@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift="+33" m3uautoload="1"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift="1" m3uautoload="1"
 
 #１. 地上波 関西
 
