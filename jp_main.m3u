@@ -54,7 +54,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=12
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71607" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
 https://api.vthanhtivi.pw/test/jp.php?id=17
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71607" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",092 - TOKYO MX２
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",092 - TOKYO MX２
 https://api.vthanhtivi.pw/test/jp.php?id=9
 
 
