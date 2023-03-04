@@ -3,11 +3,17 @@
 
 #１. 地上波 関西
 
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/031.png",011 - ＮＨＫ総合１･大阪
+https://api.vthanhtivi.pw/test/jp.php?id=25
+
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="71645" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１大阪
+https://api.vthanhtivi.pw/test/jp.php?id=3
+
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/031.png",031 - サンテレビ
+https://api.vthanhtivi.pw/test/jp.php?id=23
+
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOOYDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/041.png",041 - ＭＢＳ毎日放送
 https://api.vthanhtivi.pw/test/jp.php?id=18
-
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOBRDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/051.png",051 - ＫＢＳ京都
-https://api.vthanhtivi.pw/test/jp.php?id=21
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOAYDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/061.png",061 - ＡＢＣテレビ１
 https://api.vthanhtivi.pw/test/jp.php?id=28
@@ -19,7 +25,7 @@ https://api.vthanhtivi.pw/test/jp.php?id=22
 https://api.vthanhtivi.pw/test/jp.php?id=20
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="JOIXDTV.jp" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/101.png",101 - 読売テレビ１
-https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+https://api.vthanhtivi.pw/test/jp.php?id=21
 
 
 #２. 地上波 関東
@@ -47,6 +53,9 @@ https://api.vthanhtivi.pw/test/jp.php?id=12
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71607" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
 https://api.vthanhtivi.pw/test/jp.php?id=17
+
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71607" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",092 - TOKYO MX２
+https://api.vthanhtivi.pw/test/jp.php?id=9
 
 
 #３. ＢＳ 101～181ch
