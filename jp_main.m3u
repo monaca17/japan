@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml.gz,http://epg.dinhluong.jp/jpkansai.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.dinhluong.jp/jp.xml,http://epg.dinhluong.jp/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #１. 地上波 関西
 
@@ -30,260 +30,254 @@ https://api.vthanhtivi.pw/test/jp.php?id=21
 
 #２. 地上波 関東
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71596" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
 https://api.vthanhtivi.pw/test/jp.php?id=14
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71645" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１東京
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhke" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１東京
 https://api.vthanhtivi.pw/test/jp.php?id=3
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71591" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png",041 - 日テレ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png",041 - 日テレ１
 https://api.vthanhtivi.pw/test/jp.php?id=4
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71640" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tvasahi" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
 https://api.vthanhtivi.pw/test/jp.php?id=7
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71534" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
 https://api.vthanhtivi.pw/test/jp.php?id=5
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71576" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tvtokyo" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
 https://api.vthanhtivi.pw/test/jp.php?id=8
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71651" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="fujitv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
 https://api.vthanhtivi.pw/test/jp.php?id=12
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="71607" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tokyomx" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
 https://api.vthanhtivi.pw/test/jp.php?id=17
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",092 - TOKYO MX２
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tokyomx2" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",092 - TOKYO MX２
 https://api.vthanhtivi.pw/test/jp.php?id=9
 
 
 #３. ＢＳ 101～181ch
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71608" tvg-logo="https://www.eiseihoso.org/images/channellogo/ch4K101.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="nhkbs4k" tvg-logo="https://www.eiseihoso.org/images/channellogo/ch4K101.png",4K101 - ＮＨＫ ＢＳ４Ｋ  
 https://api.vthanhtivi.pw/test/jp.php?id=163
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71597" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",101 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="nhkbs1" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",101 - ＮＨＫＢＳ１  
 https://api.vthanhtivi.pw/test/jp.php?id=32
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71597" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",102 - ＮＨＫＢＳ１  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="nhkbs1" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs101.gif",102 - ＮＨＫＢＳ１  
 http://playlist.vthanhtivi.pw/yoitv/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71592" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif",103 - ＮＨＫＢＳプレミアム 
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="nhkbsp" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs103.gif",103 - ＮＨＫＢＳプレミアム 
 https://api.vthanhtivi.pw/test/jp.php?id=33
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71666" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",141 - ＢＳ日テレ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="bsntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",141 - ＢＳ日テレ  
 https://api.vthanhtivi.pw/test/jp.php?id=44
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71639" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",151 - ＢＳ朝日１ 
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="bsasahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",151 - ＢＳ朝日１ 
 https://api.vthanhtivi.pw/test/jp.php?id=35
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71550" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg",161 - ＢＳ-ＴＢＳ  
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="bstbs" tvg-logo="http://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg",161 - ＢＳ-ＴＢＳ  
 https://api.vthanhtivi.pw/test/jp.php?id=36
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71541" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",171 - ＢＳテレ東
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="bstvtokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",171 - ＢＳテレ東
 https://api.vthanhtivi.pw/test/jp.php?id=37
 
-#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="71643" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",181 - ＢＳフジ･181
+#EXTINF:-1 group-title="３. ＢＳ 101～181ch" tvg-id="bsfuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",181 - ＢＳフジ･181
 https://api.vthanhtivi.pw/test/jp.php?id=38
 
 
 
 #４. ＢＳ 191～265ch
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71622" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",191 - ＷＯＷＯＷプライム 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="wowowprime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",191 - ＷＯＷＯＷプライム 
 https://api.vthanhtivi.pw/test/jp.php?id=39
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71653" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",192 - ＷＯＷＯＷライブ
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="wowowlive" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",192 - ＷＯＷＯＷライブ
 https://api.vthanhtivi.pw/test/jp.php?id=40
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71625" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",193 - ＷＯＷＯＷシネマ  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="wowowcinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",193 - ＷＯＷＯＷシネマ  
 https://api.vthanhtivi.pw/test/jp.php?id=41
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71647" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",200 - スターチャンネル１  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="starch1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",200 - スターチャンネル１  
 https://api.vthanhtivi.pw/test/jp.php?id=52
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71614" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",201 - スターチャンネル２  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="starch2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",201 - スターチャンネル２  
 https://api.vthanhtivi.pw/test/jp.php?id=53
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71654" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png",202 - スターチャンネル３ 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="starch3" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png",202 - スターチャンネル３ 
 https://api.vthanhtivi.pw/test/jp.php?id=54
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71581" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",211 - ＢＳ１１イレブン 
 https://api.vthanhtivi.pw/test/jp.php?id=157
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71588" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif",222 - ＢＳ１２トゥエルビ
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="bs12" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs222.gif",222 - ＢＳ１２トゥエルビ
 https://api.vthanhtivi.pw/test/jp.php?id=114
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71599" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="greench" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",234 - グリーンチャンネル 
 https://api.vthanhtivi.pw/test/jp.php?id=60
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71584" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs236.gif",236 - ＢＳアニマックス  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="animax" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs236.gif",236 - ＢＳアニマックス  
 https://api.vthanhtivi.pw/test/jp.php?id=56
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71598" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="js1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",242 - J SPORTS 1  
 https://api.vthanhtivi.pw/test/jp.php?id=68
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71606" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",243 - J SPORTS 2  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="js2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",243 - J SPORTS 2  
 https://api.vthanhtivi.pw/test/jp.php?id=69
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71656" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",244 - J SPORTS 3  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="js3" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",244 - J SPORTS 3  
 https://api.vthanhtivi.pw/test/jp.php?id=70
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71663" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",245 - J SPORTS 4  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="js4" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",245 - J SPORTS 4  
 https://api.vthanhtivi.pw/test/jp.php?id=71
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71545" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="fishing" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",251 - 釣りビジョン  
 https://api.vthanhtivi.pw/test/jp.php?id=98
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71556" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="wowowplus" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs252.gif",252 - ＷＯＷＯＷプラス 映画･ドラマ･スポーツ･音楽
 https://api.vthanhtivi.pw/test/jp.php?id=55
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71579" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs255.gif",255 - 日本映画専門ch  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="nihoneiga" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs255.gif",255 - 日本映画専門ch  
 https://api.vthanhtivi.pw/test/jp.php?id=57
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71648" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs256.gif",256 - ディズニー･チャンネル
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="disneych" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_bs256.gif",256 - ディズニー･チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=58
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71595" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs260.png",260 - ＢＳ松竹東急
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="bstokyu" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs260.png",260 - ＢＳ松竹東急
 https://api.vthanhtivi.pw/test/jp.php?id=125
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="63008" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs263.png",263 - BSJapanext 
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="bsjapanext" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs263.png",263 - BSJapanext 
 https://api.vthanhtivi.pw/test/jp.php?id=117
 
-#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="71662" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs265.png",265 - ＢＳよしもと  
+#EXTINF:-1 group-title="４. ＢＳ 191～265ch" tvg-id="bsyoshimoto" tvg-logo="https://www.eiseihoso.org/images/channellogo/bs265.png",265 - ＢＳよしもと  
 https://api.vthanhtivi.pw/test/jp.php?id=108
 
 
 #５. ＣＳ 218～800ch
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71551" tvg-logo="https://www.eiseihoso.org/images/channellogo/s218.gif",218 - 東映チャンネル
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="toeich" tvg-logo="https://www.eiseihoso.org/images/channellogo/s218.gif",218 - 東映チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=85
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71609" tvg-logo="https://www.eiseihoso.org/images/channellogo/s219.gif",219 - 衛星劇場
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="eigeki" tvg-logo="https://www.eiseihoso.org/images/channellogo/s219.gif",219 - 衛星劇場
 https://api.vthanhtivi.pw/test/jp.php?id=84
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71658" tvg-logo="https://www.eiseihoso.org/images/channellogo/s223.gif",223 - 映画･チャンネルＮＥＣＯ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="neco" tvg-logo="https://www.eiseihoso.org/images/channellogo/s223.gif",223 - 映画･チャンネルＮＥＣＯ
 https://api.vthanhtivi.pw/test/jp.php?id=83
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71546" tvg-logo="https://www.eiseihoso.org/images/channellogo/s227.gif",227 - ザ・シネマ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="thecinema" tvg-logo="https://www.eiseihoso.org/images/channellogo/s227.gif",227 - ザ・シネマ
 https://api.vthanhtivi.pw/test/jp.php?id=141
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71665" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",240 - ムービープラス
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="movieplus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",240 - ムービープラス
 https://api.vthanhtivi.pw/test/jp.php?id=73
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71659" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",250 - スカイＡ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="skya" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",250 - スカイＡ
 https://api.vthanhtivi.pw/test/jp.php?id=72
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71610" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",254 - GAORA SPORTS  
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="gaora" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",254 - GAORA SPORTS  
 https://api.vthanhtivi.pw/test/jp.php?id=1
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71554" tvg-logo="https://www.eiseihoso.org/images/channellogo/s257.gif",257 - 日テレジータス
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="ntvgplus" tvg-logo="https://www.eiseihoso.org/images/channellogo/s257.gif",257 - 日テレジータス
 https://api.vthanhtivi.pw/test/jp.php?id=90
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71641" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",262 - ゴルフネットワーク
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="golfnw" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",262 - ゴルフネットワーク
 https://api.vthanhtivi.pw/test/jp.php?id=67
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71539" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",290 - TAKARAZUKA SKY STAGE
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="skystage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",290 - TAKARAZUKA SKY STAGE
 https://api.vthanhtivi.pw/test/jp.php?id=142
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71567" tvg-logo="https://www.eiseihoso.org/images/channellogo/s292.gif",292 - 時代劇専門チャンネル
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
-
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71624" tvg-logo="https://www.eiseihoso.org/images/channellogo/s293.gif",293 - ファミリー劇場
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="familygeki" tvg-logo="https://www.eiseihoso.org/images/channellogo/s293.gif",293 - ファミリー劇場
 https://api.vthanhtivi.pw/test/jp.php?id=87
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71646" tvg-logo="https://www.eiseihoso.org/images/channellogo/s294.gif",294 - ホームドラマチャンネル 韓流･時代劇･国内ドラマ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="homedrama" tvg-logo="https://www.eiseihoso.org/images/channellogo/s294.gif",294 - ホームドラマチャンネル 韓流･時代劇･国内ドラマ 
 https://api.vthanhtivi.pw/test/jp.php?id=86
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71628" tvg-logo="https://www.eiseihoso.org/images/channellogo/p659.gif",295 - MONDO TV  
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="mondotv" tvg-logo="https://www.eiseihoso.org/images/channellogo/p659.gif",295 - MONDO TV  
 https://api.vthanhtivi.pw/test/jp.php?id=143
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71543" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",296 - ＴＢＳチャンネル１ 最新ドラマ･音楽･映画
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tbsch1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",296 - ＴＢＳチャンネル１ 最新ドラマ･音楽･映画
 https://api.vthanhtivi.pw/test/jp.php?id=144
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71549" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",297 - ＴＢＳチャンネル２ 名作ドラマ･スポーツ･アニメ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tbsch2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",297 - ＴＢＳチャンネル２ 名作ドラマ･スポーツ･アニメ
 https://api.vthanhtivi.pw/test/jp.php?id=145
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71573" tvg-logo="https://www.eiseihoso.org/images/channellogo/s298.png",298 - テレ朝チャンネル１
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tvasahich1" tvg-logo="https://www.eiseihoso.org/images/channellogo/s298.png",298 - テレ朝チャンネル１
 https://api.vthanhtivi.pw/test/jp.php?id=160
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71626" tvg-logo="https://www.eiseihoso.org/images/channellogo/s299.png",299 - テレ朝チャンネル２
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tvasahich2" tvg-logo="https://www.eiseihoso.org/images/channellogo/s299.png",299 - テレ朝チャンネル２
 https://api.vthanhtivi.pw/test/jp.php?id=161
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71583" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png",300 - 日テレプラス ドラマ･アニメ･音楽ライブ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="ntvplus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png",300 - 日テレプラス ドラマ･アニメ･音楽ライブ
 https://api.vthanhtivi.pw/test/jp.php?id=237
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71561" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png",301 - エンタメ～テレ☆シネドラバラエティ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="entermeitele" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png",301 - エンタメ～テレ☆シネドラバラエティ
 https://api.vthanhtivi.pw/test/jp.php?id=308
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71552" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_cs305.gif",305 - チャンネル銀河　歴史ドラマ･サスペンス･日本のうた 
-http://playlist.vthanhtivi.pw/yoitv/get.php?id=gQmngIMvdnJvKcjGLAYJOw==
-
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71635" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png",307 - フジテレビＯＮＥ スポーツ･バラエティ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="fujitvone" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png",307 - フジテレビＯＮＥ スポーツ･バラエティ 
 https://api.vthanhtivi.pw/test/jp.php?id=146
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71578" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png",308 - フジテレビＴＷＯ ドラマ･アニメ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="fujitvtwo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png",308 - フジテレビＴＷＯ ドラマ･アニメ
 https://api.vthanhtivi.pw/test/jp.php?id=147
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71553" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",309 - フジテレビＮＥＸＴ ライブ･プレミアム
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="fujitvnext" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",309 - フジテレビＮＥＸＴ ライブ･プレミアム
 https://api.vthanhtivi.pw/test/jp.php?id=148
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71621" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-124-400x400.png",310 - スーパー！ドラマＴＶ ＃海外ドラマ☆エンタメ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="superdramatv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-124-400x400.png",310 - スーパー！ドラマＴＶ ＃海外ドラマ☆エンタメ
 https://api.vthanhtivi.pw/test/jp.php?id=133
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71589" tvg-logo="https://www.eiseihoso.org/images/channellogo/s312.gif",312 - ＦＯＸ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="fox" tvg-logo="https://www.eiseihoso.org/images/channellogo/s312.gif",312 - ＦＯＸ 
 https://api.vthanhtivi.pw/test/jp.php?id=95
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71632" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png",314 - 女性チャンネル♪LaLa TV
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="lalatv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png",314 - 女性チャンネル♪LaLa TV
 https://api.vthanhtivi.pw/test/jp.php?id=132
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71602" tvg-logo="https://www.eiseihoso.org/images/channellogo/s321.gif",321 - 100％ヒッツ！スペースシャワーＴＶ プラス
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="spaceshowertvplus" tvg-logo="https://www.eiseihoso.org/images/channellogo/s321.gif",321 - 100％ヒッツ！スペースシャワーＴＶ プラス
 https://api.vthanhtivi.pw/test/jp.php?id=236
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71557" tvg-logo="https://www.eiseihoso.org/images/channellogo/s322.gif",322 - 音楽･ライブ！ スペースシャワーＴＶ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="spaceshowertv" tvg-logo="https://www.eiseihoso.org/images/channellogo/s322.gif",322 - 音楽･ライブ！ スペースシャワーＴＶ 
 https://api.vthanhtivi.pw/test/jp.php?id=155
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71580" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",323 - ＭＴＶ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",323 - ＭＴＶ
 https://api.vthanhtivi.pw/test/jp.php?id=74
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71536" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_cs324.gif",324 - ミュージック･エア 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="musicair" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_cs324.gif",324 - ミュージック･エア 
 https://api.vthanhtivi.pw/test/jp.php?id=149
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71603" tvg-logo="https://www.eiseihoso.org/images/channellogo/s325.gif",325 - MUSIC ON! TV (エムオン!)
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="musicon" tvg-logo="https://www.eiseihoso.org/images/channellogo/s325.gif",325 - MUSIC ON! TV (エムオン!)
 https://api.vthanhtivi.pw/test/jp.php?id=131
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71631" tvg-logo="https://www.eiseihoso.org/images/channellogo/s330.gif",330 - キッズステーション テレビアニメ･劇場版･ＯＶＡ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="kidsstation" tvg-logo="https://www.eiseihoso.org/images/channellogo/s330.gif",330 - キッズステーション テレビアニメ･劇場版･ＯＶＡ
 https://api.vthanhtivi.pw/test/jp.php?id=81
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71535" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",333 - アニメシアターＸ(ＡＴ-Ｘ) 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="ATX.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",333 - アニメシアターＸ(ＡＴ-Ｘ) 
 https://api.vthanhtivi.pw/test/jp.php?id=107
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71560" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",339 - ディズニージュニア
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="disneyjr" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",339 - ディズニージュニア
 https://api.vthanhtivi.pw/test/jp.php?id=89
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71538" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_676.gif",340 - ディスカバリーチャンネル
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="discovery" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_676.gif",340 - ディスカバリーチャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=99
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71569" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png",342 - ヒストリーチャンネル 日本･世界の歴史＆エンタメ 
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="historych" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png",342 - ヒストリーチャンネル 日本･世界の歴史＆エンタメ 
 https://api.vthanhtivi.pw/test/jp.php?id=309
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71565" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png",343 - ナショナル ジオグラフィック
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="natgeo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png",343 - ナショナル ジオグラフィック
 https://api.vthanhtivi.pw/test/jp.php?id=75
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71642" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",349 - 日テレＮＥＷＳ２４
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="ntvnews24" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",349 - 日テレＮＥＷＳ２４
 https://api.vthanhtivi.pw/test/jp.php?id=112
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71667" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",351 - ＴＢＳ ＮＥＷＳ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tbsnews" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",351 - ＴＢＳ ＮＥＷＳ
 https://api.vthanhtivi.pw/test/jp.php?id=233
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71568" tvg-logo="https://www.eiseihoso.org/images/channellogo/s362.gif",544 - 旅チャンネル
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="tabich" tvg-logo="https://www.eiseihoso.org/images/channellogo/s362.gif",544 - 旅チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=138
 
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu83ZLXYADFSW76gVBMSK8xL6_hbSIassBiTQfsGoQ=s176-c-k-c0x00ffffff-no-rj",546 - 鉄道チャンネル
 https://api.vthanhtivi.pw/test/jp.php?id=158
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71540" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png",600 - FIGHTING TV サムライ  
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="fightingtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png",600 - FIGHTING TV サムライ  
 https://api.vthanhtivi.pw/test/jp.php?id=139
 
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg",639 - ミュージック･ジャパンＴＶ
@@ -292,28 +286,28 @@ https://api.vthanhtivi.pw/test/jp.php?id=156
 #EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="" tvg-logo="https://www.eiseihoso.org/images/channellogo/p663.gif",663 - アイドル専門チャンネルPigoo
 https://api.vthanhtivi.pw/test/jp.php?id=234
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71572" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png",665 - ダンスチャンネル by エンタメ～テレ
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="dancech" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png",665 - ダンスチャンネル by エンタメ～テレ
 https://api.vthanhtivi.pw/test/jp.php?id=140
 
-#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="71644" tvg-logo="https://www.eiseihoso.org/images/channellogo/p800.gif",800 - スポーツライブ＋
+#EXTINF:-1 group-title="５. ＣＳ 218～800ch" tvg-id="sportsliveplus" tvg-logo="https://www.eiseihoso.org/images/channellogo/p800.gif",800 - スポーツライブ＋
 https://api.vthanhtivi.pw/test/jp.php?id=150
 
 
 #６. TVerリアルタイム配信
 
-#EXTINF:-1 tvg-id="71591"  tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/4.png" group-title="６. TVerリアルタイム配信",TVer04 - 日テレ系
+#EXTINF:-1 tvg-id="ntv"  tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/4.png" group-title="６. TVerリアルタイム配信",TVer04 - 日テレ系
 https://ssai-manifest.streaks.jp/v3/tver-simul-ntv/1727021d5a00477e9450e8170653f3c6/7dad4248181341798caaf0eb99e47ea1/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjU5ZTE4ZTUyZDhmODQ2MDhhYjgwNTY2YzdhN2Y5NWM5IiwiZWRnZSI6ImMwODk5MjQwZjljZTQ2ODg4ZDExZjAyZTY4MzcwOTBkIiwidXNlcl9pZCI6IjEiLCJjb2RlY3MiOiJhdXRvIiwiZXhwIjoxNjcyNTAyNDAwLCJ2cDkiOjF9.3_91mlpmcwerBI7rH6yMGzQJSNtQ0RELfhE4c2TH3eI&pdt=-8201&session=d08f4a42-4b16-4304-8c6a-1b078ae2dfdb
 
-#EXTINF:-1 tvg-id="71640" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/5.png" group-title="６. TVerリアルタイム配信",TVer05 - テレ朝系
+#EXTINF:-1 tvg-id="tvasahi" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/5.png" group-title="６. TVerリアルタイム配信",TVer05 - テレ朝系
 https://ssai-variants.streaks.jp/v2/tver-simul-ex/6ad5f1ca56944851bc86223e955e0340/eb72b1c631c14fd3a2a519d4fe7e9367/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-1773/495451d4-7b3a-48df-99b5-d7fcafee64a8/0.m3u8?pdt=-16208&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2MjA4In0.nDIlzabvo8C5ze9Ul5aDtqKzjCeusoHDxE8bAKuljRA&session=495451d4-7b3a-48df-99b5-d7fcafee64a8
 
-#EXTINF:-1 tvg-id="71534" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/6.png" group-title="６. TVerリアルタイム配信",TVer06 - TBS系
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/6.png" group-title="６. TVerリアルタイム配信",TVer06 - TBS系
 https://ssai-variants.streaks.jp/v2/tver-simul-tbs/ddfe4d2464ab4aefbb368c7a348f8c1a/d080e3c675bd436884bcc2df49d0896e/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-1775/843d4b8f-ad7b-4a9e-8e52-a8a253eebbc9/0.m3u8?pdt=-8084&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii04MDg0In0.xfWmdsfnF73rQt0BFkC0WpAyL1Ejd0NsZjPBtccTR5Y&session=843d4b8f-ad7b-4a9e-8e52-a8a253eebbc9
 
-#EXTINF:-1 tvg-id="71576" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/7.png" group-title="６. TVerリアルタイム配信",TVer07 - テレ東系
+#EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/7.png" group-title="６. TVerリアルタイム配信",TVer07 - テレ東系
 https://ssai-variants.streaks.jp/v2/tver-simul-tx/537e0f8f6e8f4fe7aaec4e6d5d6ea888/c1b3b57beb314cd3acbbcfcd67d0f110/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-1774/589b11ac-916c-4c4d-aa0c-f9033f55ee5a/0.m3u8?pdt=-10285&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTEwMjg1In0.RoGQll3gRtK0cFQBC5Hl_MLy8RBkZZDZSgWUZvqRH-c&session=589b11ac-916c-4c4d-aa0c-f9033f55ee5a
 
-#EXTINF:-1 tvg-id="71651" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/8.png" group-title="６. TVerリアルタイム配信",TVer08 - フジ系
+#EXTINF:-1 tvg-id="fujitv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/8.png" group-title="６. TVerリアルタイム配信",TVer08 - フジ系
 https://ssai-variants.streaks.jp/v2/tver-simul-cx/4ed0b96148a54c5795256dd001ab1b5f/edd10b15e5ce4fc299beea923375e9a6/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-1771/78546762-cc0b-4a44-847e-444018bfa3cb/0.m3u8?pdt=-3960&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTM5NjAifQ.MpA4oEYeOFVU5KJaRY7E3gUmRy6L_1Lo08JrYZHjfIc&session=78546762-cc0b-4a44-847e-444018bfa3cb
 
 
