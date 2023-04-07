@@ -15,6 +15,9 @@ https://code.vthanhtivi.pw/getlink/jptv2/23/playlist.m3u8
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="mbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/041.png",041 - ＭＢＳ毎日放送
 https://code.vthanhtivi.pw/getlink/jptv2/18/playlist.m3u8
 
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="kbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/051.png",051 - ＫＢＳ京都
+https://code.vthanhtivi.pw/getlink/jptv2/116/playlist.m3u8
+
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="abc" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/061.png",061 - ＡＢＣテレビ１
 https://code.vthanhtivi.pw/getlink/jptv2/28/playlist.m3u8
 
