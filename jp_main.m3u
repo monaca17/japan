@@ -1,6 +1,32 @@
 #EXTM3U
 #EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
+#０. 地上波 関西 v２
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="nhkgosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/011.png",011 - ＮＨＫ総合１･大阪
+http://code.vthanhtivi.pw/getlink/jptv3/206/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="nhkeosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１大阪
+http://code.vthanhtivi.pw/getlink/jptv3/214/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="suntv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/031.png",031 - サンテレビ
+https://code.vthanhtivi.pw/getlink/jptv3/207/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="mbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/041.png",041 - ＭＢＳ毎日放送
+https://code.vthanhtivi.pw/getlink/jptv3/208/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="abc" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/061.png",061 - ＡＢＣテレビ１
+https://code.vthanhtivi.pw/getlink/jptv3/209/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="tvosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/071.png",071 - テレビ大阪１
+https://code.vthanhtivi.pw/getlink/jptv3/212/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="ktv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/081.png",081 - 関西テレビ１
+https://code.vthanhtivi.pw/getlink/jptv3/210/playlist.m3u8
+
+#EXTINF:-1 group-title="０. 地上波 関西" tvg-id="ytv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/101.png",101 - 読売テレビ１
+https://code.vthanhtivi.pw/getlink/jptv3/211/playlist.m3u8
+
 #１. 地上波 関西
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="nhkgosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/011.png",011 - ＮＨＫ総合１･大阪
@@ -289,3 +315,5 @@ https://ssai-variants.streaks.jp/v2/tver-simul-tx/537e0f8f6e8f4fe7aaec4e6d5d6ea8
 
 #EXTINF:-1 tvg-id="fujitv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/TVer/8.png" group-title="６. TVerリアルタイム配信",TVer08 - フジ系
 https://ssai-variants.streaks.jp/v2/tver-simul-cx/4ed0b96148a54c5795256dd001ab1b5f/edd10b15e5ce4fc299beea923375e9a6/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-1771/78546762-cc0b-4a44-847e-444018bfa3cb/0.m3u8?pdt=-3960&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTM5NjAifQ.MpA4oEYeOFVU5KJaRY7E3gUmRy6L_1Lo08JrYZHjfIc&session=78546762-cc0b-4a44-847e-444018bfa3cb
+
+
