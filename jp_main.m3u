@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #０. 地上波 関西
@@ -20,6 +21,7 @@ http://code.vthanhtivi.pw/getlink/jptvvn/209/playlist.m3u8
 
 #EXTINF:-1 group-title="０. 地上波 関西" tvg-id="tvosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/071.png",071 - テレビ大阪１
 http://code.vthanhtivi.pw/getlink/jptvvn/212/playlist.m3u8
+
 
 #EXTINF:-1 group-title="０. 地上波 関西" tvg-id="ktv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/081.png",081 - 関西テレビ１
 http://code.vthanhtivi.pw/getlink/jptvvn/210/playlist.m3u8
@@ -57,29 +59,32 @@ http://code.vthanhtivi.pw/getlink/jptvvn/20/playlist.m3u8
 
 #２. 地上波 関東
 
+#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京 (Test)
+http://for-testonly.ra1n.lol:5678/NHKG-Tokyo/index.m3u8
+
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
-http://sv92102.vthanhtivi.pw/jptv/213/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/213/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhke" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１東京
-http://sv92102.vthanhtivi.pw/jptv/214/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/214/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/041.png",041 - 日テレ１
-http://sv92102.vthanhtivi.pw/jptv/202/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/202/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tvasahi" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/051.png",051 - テレビ朝日
-http://sv92102.vthanhtivi.pw/jptv/205/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/205/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tbs" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/061.png",061 - ＴＢＳ１
-http://sv92102.vthanhtivi.pw/jptv/203/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/203/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tvtokyo" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/071.png",071 - テレビ東京１
-http://sv92102.vthanhtivi.pw/jptv/276/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/276/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="fujitv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/081.png",081 - フジテレビ
-http://sv92102.vthanhtivi.pw/jptv/204/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/204/playlist.m3u8
 
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="tokyomx" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/091.png",091 - TOKYO MX１
-http://sv92102.vthanhtivi.pw/jptv/277/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptvvn/277/playlist.m3u8
 
 
 
