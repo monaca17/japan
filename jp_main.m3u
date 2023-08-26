@@ -59,9 +59,6 @@ http://code.vthanhtivi.pw/getlink/jptvvn/20/playlist.m3u8
 
 #２. 地上波 関東
 
-#EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京 (Test)
-http://for-testonly.ra1n.lol:5678/NHKG-Tokyo/index.m3u8
-
 #EXTINF:-1 group-title="２. 地上波 関東" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/011.png",011 - ＮＨＫ総合１･東京
 http://code.vthanhtivi.pw/getlink/jptvvn/213/playlist.m3u8
 
