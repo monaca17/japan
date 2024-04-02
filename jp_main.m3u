@@ -4,10 +4,10 @@
 
 #１. 地上波 関西
 
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="nhkgosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/011.png",011 - ＮＨＫ総合１･大阪
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="nhkg_osaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/011.png",011 - ＮＨＫ総合１･大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="nhkeosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１大阪
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="nhke" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kanto/021.png",021 - ＮＨＫＥテレ１大阪
 https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
 
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="suntv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/031.png",031 - サンテレビ
@@ -22,10 +22,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 group-title="１. 地上波 関西" tvg-id="tvosaka" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/071.png",071 - テレビ大阪１
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="ktv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/081.png",081 - 関西テレビ１
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="kansaitv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/081.png",081 - 関西テレビ１
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 
-#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="ytv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/101.png",101 - 読売テレビ１
+#EXTINF:-1 group-title="１. 地上波 関西" tvg-id="yomiuritv" tvg-logo="https://raw.githubusercontent.com/monaca17/watermark/main/Kansai/101.png",101 - 読売テレビ１
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
